@@ -1,3 +1,5 @@
+[![vprofile IAC](https://github.com/G-AC7/iac-vprofile/actions/workflows/terraform.yml/badge.svg)](https://github.com/G-AC7/iac-vprofile/actions/workflows/terraform.yml)
+
 # Terraform code 
 
 ## Maintain vpc & eks with terraform for vprofile project
